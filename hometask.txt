@@ -1,0 +1,7 @@
+Отличий в human.txt нет, но отличаются файлы README ( with nice buttons on his jacket (buttons branch))
+
+4 комментария:
+    heat added
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    Merge remote-tracking branch 'origin/hat'
